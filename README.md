@@ -3,11 +3,11 @@
 
 # ![Angular Example App](logo.png)
 
-> ### Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/BestCryptoKnight/angular-realworld-app) spec and API.
+> ### Angular codebase containing real world examples (CRUD, auth, advanced patterns, etc) that adheres to the [RealWorld](https://github.com/myshine112/angular-realworld-app) spec and API.
 
 <br/><br/>
 
-### [Demo](https://angular.realworld.io)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/BestCryptoKnight/angular-realworld-app)
+### [Demo](https://angular.realworld.io)&nbsp;&nbsp;&nbsp;&nbsp;[RealWorld](https://github.com/myshine112/angular-realworld-app)
 
 
 
@@ -22,9 +22,9 @@ We're currently working on some docs for the codebase (explaining where function
 
 ### Making requests to the backend API
 
-For convenience, we have a live API server running at https://conduit.productionready.io/api for the application to make requests against. You can view [the API spec here](https://github.com/BestCryptoKnight/productionready/blob/master/api) which contains all routes & responses for the server.
+For convenience, we have a live API server running at https://conduit.productionready.io/api for the application to make requests against. You can view [the API spec here](https://github.com/myshine/productionready/blob/master/api) which contains all routes & responses for the server.
 
-The source code for the backend server (available for Node, Rails and Django) can be found in the [main RealWorld repo](https://github.com/BestCryptoKnight/realworld).
+The source code for the backend server (available for Node, Rails and Django) can be found in the [main RealWorld repo](https://github.com/myshine112/realworld).
 
 If you want to change the API URL to a local server, simply edit `src/environments/environment.ts` and change `api_url` to the local server's URL (i.e. `localhost:3000/api`)
 
